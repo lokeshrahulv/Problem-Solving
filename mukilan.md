@@ -52,4 +52,4 @@ public class bubble {
 }
 ```
 ## Ouput
-![image](C:\my_projects\java\Vasanthamukilan\Screenshot 2025-03-24 142056.png)
+![Screenshot 2025-03-24 142056](https://github.com/user-attachments/assets/e5d86585-5d4c-448e-96c9-e4f98f0deea0)
