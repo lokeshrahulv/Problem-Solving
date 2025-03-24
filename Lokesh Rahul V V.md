@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f7ab7366-7630-425a-91f4-fff63b2c68be)## Program Name: Java Program to Rotate digits of a given number by K
 ## Problem statement:
 Given two integers N and K, the task is to rotate the digits of N by K. If K is a positive integer, left rotate its digits. Otherwise, right rotate its digits.
 Input: N = 12345, K = 2
