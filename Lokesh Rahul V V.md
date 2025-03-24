@@ -1,6 +1,6 @@
 ## Program Name:
-### Problem statement:
+## Problem statement:
 
-### Program:
+## Program:
 
-### Ouput
+## Ouput
